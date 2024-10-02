@@ -13,11 +13,12 @@ Currently Learning Full-Stack development basics
 <img align="left" alt="Rails" width="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
 <img align="left" alt="Bash" width="50px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <br />
+<br /> 
 
 ---
 
 ### 📊 Stats
 
-![Rinka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinka-Sei&show_icons=true&theme=gruvbox)
+![Rinka's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rinka-Sei&show_icons=true&theme=apprentice)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Rinka-Sei&theme=gruvbox&border_radius=4.5) -->
