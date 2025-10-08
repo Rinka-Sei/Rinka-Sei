@@ -1,7 +1,7 @@
 # 👨‍💻 Rinka Sei
 
-**`Self-taught Full-Stack Developer`**  
-Currently Learning Full-Stack development basics
+**`Junior Software Engineer`**  
+A passionate Junior Software Engineer with a solid foundation in backend development and full-stack concepts. I thrive on building scalable, well-architected applications and have hands-on experience developing and deploying complex, containerized services using 
 
 ---
 
